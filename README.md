@@ -8,5 +8,5 @@
 * Used Google API keys to first collect comments and store them into a text file which was then used in the analysis
 
 ## Files:
-**wir_analysis.py** - code, originally written in Google Colab
+**wir_analysis.py** - code, originally written in Google Colab <br>
 **ytcomments.txt** - public comments collected from the "Week in Review" video
